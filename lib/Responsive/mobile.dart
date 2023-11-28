@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:netflix_clone/Widgets/GlobalVars.dart';
+import 'package:netflix_clone/utils/GlobalVars.dart';
 import 'package:netflix_clone/utils/Colors.dart';
 
 class MobileScreen extends StatefulWidget {
